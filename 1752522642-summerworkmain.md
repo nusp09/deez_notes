@@ -9,4 +9,5 @@ tags: []
 
 
 this is my summer work main file where i will connect all of my ideas
+## ideas
 [[1752523541-religion|religion]]
